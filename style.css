@@ -1,0 +1,52 @@
+h1{
+    background-color: rgb(218, 216, 216);
+    padding: 30px;
+    margin-left: 16px;
+    margin-bottom: 50px;
+}
+
+p{
+   height :31px;
+    margin-left: 16px;
+    margin-top: -16px;
+}
+#color0{
+    background-color: rgb(238,62,128);}
+#color1{
+    background-color: rgb(244,90,139);}
+
+#color2{
+    background-color: rgb(243,106,152);}
+
+#color3{
+    background-color: rgb(244,123,166);}
+
+#color4{
+    background-color: rgb(245,140,178);}
+
+#color5{
+    background-color: rgb(246,159,192);}
+#color6{
+    background-color: rgb(245,176,204);}
+
+#color7{
+    background-color: rgb(0,187,136);}
+
+#color8{
+    background-color: rgb(140,202,242);}
+
+#color9{
+    background-color: rgb(114,193,240);}
+
+#color10{
+background-color: rgb(84,182,237);
+}
+#color11{
+background-color:rgb(48,170,233);
+}
+#color12{
+    background-color: rgb(0,160,230);}
+#color13{
+    background-color: rgb(0,149,226);}
+#color14{
+    background-color: rgb(0,136,221);}
